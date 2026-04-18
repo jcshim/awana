@@ -10,6 +10,7 @@
 
 # 송이 이야기
 <img width="756" height="503" alt="image" src="https://github.com/user-attachments/assets/51847d4a-c0c8-4ea0-82e5-48d58ce2eba8" />
+
 ### 송이와 소나무: 생명의 연결 시스템
 * 시스템명: 공동 생존 시스템 (외생균근)
 * 물리 연결: 송이 균사가 소나무 뿌리를 감싸 표면적 수만 배 확장
