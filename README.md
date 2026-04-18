@@ -10,6 +10,10 @@
 언행일치, 창의적 문제 해결, 낮은 자세와 서비스
 최고의 역량은 '기술'이 아니라 '관계'와 '진심'에서 나온다.
 
+# 송이 이야기
+<img width="756" height="503" alt="image" src="https://github.com/user-attachments/assets/51847d4a-c0c8-4ea0-82e5-48d58ce2eba8" />
+
+
 # 인체의 신비
 * 30억 개의 유전자 코드가 정밀하게 작동하고, 
 * 5억 개의 폐포가 숨을 쉬며, 
