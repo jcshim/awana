@@ -12,7 +12,7 @@
 <img width="756" height="503" alt="image" src="https://github.com/user-attachments/assets/51847d4a-c0c8-4ea0-82e5-48d58ce2eba8" />
 
 ---
-### **[송이 성장 핵심 데이터]**
+### **송이 성장 핵심 데이터**
 * **하루 성장:** **약 1~2cm** (최적 조건 시 3cm 이상)
 * **완성 기간:** 지표면 노출 후 **5~7일**이면 수확기
 * **특이사항:** 땅 위 성장은 짧지만, 이를 위해 땅속 균사는 **수년간** 소나무에 붙어 에너지를 비축함
@@ -25,7 +25,7 @@
 * 성장 방식: 매년 10~15cm씩 방사형(원형) 확장
 * 핵심 원리: 절대적 상호의존 (따로 살면 죽고, 붙어야 산다)
 * 한 줄 결론: 송이가 소나무에 붙어 살듯, 우리도 예수님께 딱 붙어 있어야 멋지게 삽니다!
-
+---
 # 인체의 신비
 
 1. 골격계,구조물(Frame): 몸의 형태 유지 및 장기 보호,"뼈, 연골"
@@ -48,7 +48,7 @@
 * 결국 인체의 가장 큰 신비는, 
 * 우리가 하나님의 지혜를 그대로 닮아 만들어진 
 * **'나는 우주에서 가장 정교한 작품'**
-
+---
 # 신장:콩팥(비뇨계)
 <img width="673" height="362" alt="image" src="https://github.com/user-attachments/assets/624809c5-8edb-48ab-8bb2-12d5547efe28" />
 <img width="600" height="648" alt="image" src="https://github.com/user-attachments/assets/a17779f7-3992-4cc2-b456-bb083a1c3e8b" />
@@ -60,7 +60,7 @@
 # 폐(호흡계)
 <img width="1046" height="591" alt="image" src="https://github.com/user-attachments/assets/7cfe6bb9-40f4-4307-8925-afc254089fbf" />
 <img width="2500" height="2500" alt="image" src="https://github.com/user-attachments/assets/0acf7d72-783c-4eb6-81d3-ad02b38cb058" />
-
+---
 # 예수 그리스도
 ## 예수: "자기 백성을 그들의 죄에서 구원할 자", 
 * 히브리어: 여호수아 Yehoshua "하나님은 구원이시다"
@@ -72,7 +72,7 @@
 ## 그리스도: "기름 부음을 받은자", 하나님의 특
 * 헬라어(그리스어): 그리스토스 Christos
 * 히브리어: 메시아 Messiah
-
+---
 # 내가 닮고 싶은 예수님
 - 비전제시: Visionary
 - 비유활동 Stroytelling
@@ -82,6 +82,7 @@
 * 낮은 자세와 서비스
 
 # 최고의 그리스도인
+
 ## 최고는 '기술'이 아니라 '관계'와 '진심'에서 나온다.
 ## 그리스도인 / 성품이 곧 실력이다.
 ## 하나님 나라 가문을 빛내는 그리스도인이 되자.
