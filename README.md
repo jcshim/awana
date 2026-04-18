@@ -11,6 +11,8 @@
 최고의 역량은 '기술'이 아니라 '관계'와 '진심'에서 나온다.
 
 
+<img width="673" height="362" alt="image" src="https://github.com/user-attachments/assets/624809c5-8edb-48ab-8bb2-12d5547efe28" />
+
 <img width="600" height="648" alt="image" src="https://github.com/user-attachments/assets/a17779f7-3992-4cc2-b456-bb083a1c3e8b" />
 
 
