@@ -10,3 +10,7 @@
 언행일치, 창의적 문제 해결, 낮은 자세와 서비스
 최고의 역량은 '기술'이 아니라 '관계'와 '진심'에서 나온다.
 
+
+<img width="600" height="648" alt="image" src="https://github.com/user-attachments/assets/a17779f7-3992-4cc2-b456-bb083a1c3e8b" />
+
+
