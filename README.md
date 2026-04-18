@@ -10,9 +10,14 @@
 언행일치, 창의적 문제 해결, 낮은 자세와 서비스
 최고의 역량은 '기술'이 아니라 '관계'와 '진심'에서 나온다.
 
-
+# 신장 (콩팥)
 <img width="673" height="362" alt="image" src="https://github.com/user-attachments/assets/624809c5-8edb-48ab-8bb2-12d5547efe28" />
-
 <img width="600" height="648" alt="image" src="https://github.com/user-attachments/assets/a17779f7-3992-4cc2-b456-bb083a1c3e8b" />
+<img width="450" height="289" alt="image" src="https://github.com/user-attachments/assets/9ae15c97-eb79-490a-a00d-f16d180c6f9b" />
+
+# 폐
+<img width="549" height="443" alt="image" src="https://github.com/user-attachments/assets/01d28703-0f76-46e3-9671-a27cb6ccc560" />
+<img width="1046" height="591" alt="image" src="https://github.com/user-attachments/assets/7cfe6bb9-40f4-4307-8925-afc254089fbf" />
+
 
 
