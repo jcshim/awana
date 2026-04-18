@@ -1,14 +1,23 @@
-# awana
-안동교회 어와나 간증
+### 안동교회 어와나 간증 - 안동교회 심재창 장로
 
-그리스도인 /
-성품이 곧 실력이다.
-내가 닮고 싶은 예수님
+# awana : "Approved Workmen Are Not Ashamed"
+
+## 너는 진리의 말씀을 옳게 분별하며 
+## "부끄러울 것이 없는 인정된 일꾼"으로 
+## 자신을 하나님 앞에 드리기를 힘쓰라" (디모데후서 2:____)
+
+## 하나님께 백 점 맞은 당당한 일꾼
+
+
+* 그리스도인 / 성품이 곧 실력이다.
+* 내가 닮고 싶은 예수님
 - 비전제시: Visionary
 - 비유활동 Stroytelling
 - 제자훈련 Talent Development
-언행일치, 창의적 문제 해결, 낮은 자세와 서비스
-최고의 역량은 '기술'이 아니라 '관계'와 '진심'에서 나온다.
+* 언행일치, 창의적 문제 해결, 낮은 자세와 서비스
+
+## 최고의 역량은 '기술'이 아니라 
+### '관계'와 '진심'에서 나온다.
 
 # 송이 이야기
 <img width="756" height="503" alt="image" src="https://github.com/user-attachments/assets/51847d4a-c0c8-4ea0-82e5-48d58ce2eba8" />
@@ -36,5 +45,14 @@
 <img width="1046" height="591" alt="image" src="https://github.com/user-attachments/assets/7cfe6bb9-40f4-4307-8925-afc254089fbf" />
 <img width="2500" height="2500" alt="image" src="https://github.com/user-attachments/assets/0acf7d72-783c-4eb6-81d3-ad02b38cb058" />
 
-
-
+# 예수 그리스도
+## 예수: "자기 백성을 그들의 죄에서 구원할 자", 
+* 히브리어: 여호수아 Yehoshua "하나님은 구원이시다"
+* 아람어: 예슈아 Yeshua
+* 헬라어(그리스어): 이에수스 Iesous <- 신약성경이 기록된 언어
+* 라틴어: 이에수스 Iesus
+* 영어: 지저스 Jesus
+* 한국어: 예수 Yesu  / 중국 성경의 야소(耶蘇)
+## 그리스도: "기름 부음을 받은자", 하나님의 특
+* 헬라어(그리스어): 그리스토스 Christos
+* 히브리어: 메시아 Messiah
